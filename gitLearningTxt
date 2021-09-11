@@ -1,0 +1,12 @@
+Step1) Download git and configure.
+Step2) Jahape bhi gitbash use karna hai uss folder mein jakar Right click>> use Git Bash here
+----------------------------------------------------------------------------------------------
+Commands)
+C1) git init >>>>Initialised the empty git repo
+C2) git status >>>> btata hai current folder mein kitni files untracked hai ,, , kitni staged and kitni commited hai.
+C3) git log >>> file ka history btata hai
+C4) git add . >>>> add all the files... to STAGING
+C5) git add file_name.extension  >>>> specific file name to STAGING
+C6) git commit -m >>> commit all the files in the staging area
+C7) git reset <commit hash key> >>>> pheechle commit pe le jayega
+C8) git stash >>>> commit bhi nahi karega but stage karne ke baad  ... kind off backstage rakhega
