@@ -17,3 +17,6 @@ C9)  git remote add origin https://github.com/BanshiVishnoi/LearningGit.git
 C9.1) git remote -v  
 C10) git branch -M branch_name >>>> isse remote mein branch create hoti hai
 C11) git push origin checkTxtBranch >>>> yeh change ko push kardega
+c12) git branch branchName
+c13) git checkout branchName >>>> abse yeh nayi wali branch use karega
+/// one branch and one pull request only
