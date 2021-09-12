@@ -10,3 +10,10 @@ C5) git add file_name.extension  >>>> specific file name to STAGING
 C6) git commit -m >>> commit all the files in the staging area
 C7) git reset <commit hash key> >>>> pheechle commit pe le jayega
 C8) git stash >>>> commit bhi nahi karega but stage karne ke baad  ... kind off backstage rakhega
+C8.1) git stash pop >>>> backstage se waps lana
+C8.2) git stash clear >>>> remove everything from backstage
+C9)  git remote add origin https://github.com/BanshiVishnoi/LearningGit.git
+>>>> yeh gitbash ko remote repo se connect karta hai
+C9.1) git remote -v  
+C10) git branch -M branch_name >>>> isse remote mein branch create hoti hai
+C11) git push origin checkTxtBranch >>>> yeh change ko push kardega
